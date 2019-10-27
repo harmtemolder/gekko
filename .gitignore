@@ -1,3 +1,12 @@
+# Added by harmtemolder
+.gitignore
+backtest-config.pl
+backtest.dat
+backtest.pl
+config/strategies/*.toml
+strategies/*.js
+strategies/indicators/*.js
+
 # Numerous always-ignore extensions
 *.diff
 *.err
